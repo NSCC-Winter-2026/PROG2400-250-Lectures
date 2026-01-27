@@ -10,4 +10,7 @@ add_executable(command_line command_line/main.cpp)
 add_executable(stringstream stringstream/main.cpp)
 add_executable(pointers pointers/main.cpp)
 add_executable(vectors vectors/main.cpp)
-add_executable(linked_lists linked_lists/main.cpp)
+add_executable(linked_lists
+        linked_lists/main.cpp
+        linked_lists/linked_list.cpp
+        linked_lists/linked_list_test.cpp)
