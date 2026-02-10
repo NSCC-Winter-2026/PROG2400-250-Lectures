@@ -14,3 +14,4 @@ add_executable(linked_lists
         linked_lists/main.cpp
         linked_lists/linked_list.cpp
         linked_lists/linked_list_test.cpp)
+add_executable(queues queues/main.cpp)
