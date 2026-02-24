@@ -16,3 +16,7 @@ add_executable(linked_lists
         linked_lists/linked_list_test.cpp)
 add_executable(queues queues/main.cpp)
 add_executable(stacks stacks/main.cpp)
+add_executable(palindrome palindrome/main.cpp)
+add_executable(recursion recursion/main.cpp)
+add_executable(factorial factorial/main.cpp)
+add_executable(show_directories show_directories/main.cpp)
